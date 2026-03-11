@@ -1,4 +1,4 @@
-# Challenge-TelecomX_part1
+# Challenge-TelecomX_part2
 -- Estado del proyecto: Finalizado.
 
   ## Introducción
